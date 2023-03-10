@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Ewominex
-- 👀 I’m interested in flutter, dart, mobile development, AI, machine learning.
-- 🌱 I’m currently learning dart
-- 💞️ I’m looking to collaborate on flutter projects
-- 📫 How to reach me ...
+ Hi, welcome!
 
-<!---
-Ewominex/Ewominex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am Prince, in the past 3yrs I have spent it improving myself as a mobile engineer and working as an industrial level engineer for different teams like [AMI, TechArmy, Ewoindustry] and also keeping upto date with the Tech-world and new coding technologies.
+
+Flutter/Dart - Nodejs - Java - Kotlin - Chat GPT.
+
+I find lifestyle as one more thing I talk about, and improve.
+
+
